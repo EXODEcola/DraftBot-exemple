@@ -12,7 +12,14 @@ faite ensuite la commande : "npm install"
 
 ensuite prendre le dossier donner ultrax et le glisser dans le dossier node_modules
 
-Rentrée ensuite la commande node index et profité de votre BOT ^^
+Ouvrez ensuite le dossier "package.json et remplacer la ligne" "superagent": "^6.1.0"," par 
+
+    "superagent": "^6.1.0",
+    "ultrax": "^1.9.0",
+
+Faite ensuite la commande npm install
+
+Puis ensuite la commande node index et profité de votre BOT ^^
 
 
 PROTECTED BY EXODE DEV
