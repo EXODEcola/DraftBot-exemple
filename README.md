@@ -6,7 +6,7 @@ Ouvrir le dossier config.js remplassez :
 }
 
 Vérifier votre versions nodejs quel sois bien en V16.18.1 
-Si Non : https://nodejs.org/dist/v16.18.1/win-x64/node.exe
+Si Non : https://nodejs.org/dist/v16.18.1/node-v16.18.1-x64.msi
 
 faite ensuite la commande : "npm install"
 
